@@ -11,8 +11,8 @@ permissions:
   id-token: write
 
 env:
-  BACKEND_WEBAPP_DEV: danielmora-be-dev
-  BACKEND_WEBAPP_UAT: danielmora-be-uat
+  BACKEND_WEBAPP_DEV: danielmorasoler-be-dev
+  BACKEND_WEBAPP_UAT: danielmorasoler-be-uat
 
 jobs:
   build:
